@@ -9,7 +9,7 @@ I'm currently working on [Branazon](https://github.com/bshinnny/CapstoneProject)
 - HTML
 - CSS
 
-## Framworks
+## Frameworks
 - React
 - Redux
 - Express
