@@ -1,6 +1,19 @@
 ### Welcome to my Github page!
 
-I'm currently working on [Branazon](github.com/bshinnny/CapstoneProject), my full-stack clone of Amazon.
+I'm currently working on [Branazon](https://github.com/bshinnny/CapstoneProject), my full-stack clone of Amazon.
+
+## Languages
+- Javascript
+- Python
+- R
+- HTML
+- CSS
+
+## Framworks
+- React
+- Redux
+- Express
+- Flask
 
 <!--
 **bshinnny/bshinnny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
