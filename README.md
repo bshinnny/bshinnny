@@ -1,7 +1,5 @@
 ### Welcome to my Github page!
 
-I'm currently working on [Branazon](https://github.com/bshinnny/CapstoneProject), my full-stack clone of Amazon.
-
 ## Languages
 - Javascript
 - Python
